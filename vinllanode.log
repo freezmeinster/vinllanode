@@ -1,0 +1,16 @@
+
+2012-10-21 02:37:01,824 Exposing object test
+2012-10-21 02:37:01,824 Exposing object lala
+2012-10-21 02:37:01,830 Succesed load module aufs
+2012-10-21 02:37:01,850 Succesed load module squashfs
+2012-10-21 02:37:01,870 Succesed load module dummy
+2012-10-21 02:37:01,891 Succesed load module veth
+2012-10-21 02:37:01,914 VinllaNode Object Server Successfuly run at 192.168.1.1:9090
+2012-10-21 02:38:27,787 counting object 1
+2012-10-21 03:00:42,334 Exposing object test
+2012-10-21 03:00:42,334 Exposing object lala
+2012-10-21 03:00:42,339 Succesed load module aufs
+2012-10-21 03:00:42,360 Succesed load module squashfs
+2012-10-21 03:00:42,382 Succesed load module dummy
+2012-10-21 03:00:42,403 Succesed load module veth
+2012-10-21 03:00:42,425 VinllaNode Object Server Successfuly run at 192.168.1.1:9090
