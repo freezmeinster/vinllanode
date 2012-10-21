@@ -15,12 +15,16 @@ class Logger(object):
     
     def info(self,msg):
         logging.info(msg)
-        print Fore.CYAN + msg
+        print Fore.CYAN + msg + Fore.RESET
     
     def warning(self,msg):
         logging.warning(msg)
-        print Fore.RED + msg
+        print Fore.YELLOW + msg + Fore.RESET
     
     def success(self,msg):
         logging.info(msg)
-        print Fore.GREEN + msg
+        print Fore.GREEN + msg + Fore.RESET
+        
+    def critical(self,msg):
+        logging.error(msg)
+        print Fore.RED + msg + Fore.RESET
