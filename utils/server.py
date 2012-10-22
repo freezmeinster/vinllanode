@@ -8,16 +8,6 @@ from Pyro4.core import log, MessageFactory
 from Pyro4 import errors, util
 
 
-def track_logging(fn):
-    l = Logger()
-    def wrapper(self, *args):
-        c_name = self.__class__.__name__
-        l.info(
-            "Executing method %s at class %s" % (fn, c_name)
-        ) 
-        return fn(self, *args)
-    return wrapper
-
 def execute_command(command):
     try :
         return subprocess.check_output(command,shell=True)
@@ -37,7 +27,7 @@ def prepare_kmod():
             pass
             
     for kmod in kmod_list :
-        l.info("Succesed load module %s" % kmod)
+        l.info("[OperatingSystem] Succesed load kernel module %s" % kmod)
         if kmod :
             execute_command("modprobe %s" % kmod)
         else :
@@ -51,7 +41,9 @@ def is_ip_set(ip):
         return False
 
 class VinllaDaemon(Pyro4.Daemon):
-    
+    """
+    Vinlla Daemon is modified version of Pyro Daemon.i only add some logging step
+    """
     def _set_log(self,kind,msg):
         log = Logger()
         if kind == "info":
@@ -78,7 +70,7 @@ class VinllaDaemon(Pyro4.Daemon):
             if obj is not None:
                 self._set_log(
                     "info",
-                    "Client %s contacting object %s" %
+                    "[Object] Client %s contacting object %s" %
                     (conn.sock.getpeername()[0], objId)
                 )
                 if kwargs and sys.version_info<(2, 6, 5) and os.name!="java":
@@ -93,7 +85,6 @@ class VinllaDaemon(Pyro4.Daemon):
                             result=method(*vargs, **kwargs)   # this is the actual method call to the Pyro object
                         except Exception:
                             xt,xv=sys.exc_info()[0:2]
-                            log.debug("Exception occurred while handling batched request: %s", xv)
                             xv._pyroTraceback=util.formatTraceback(detailed=Pyro4.config.DETAILED_TRACEBACK)
                             if sys.platform=="cli":
                                 fixIronPythonExceptionForPickle(xv, True)  # piggyback attributes
@@ -116,10 +107,9 @@ class VinllaDaemon(Pyro4.Daemon):
             else:
                 self._set_log(
                     "critical",
-                    "Client %s contacting unknown object %s" %
+                    "[Object] Client %s contacting unknown object %s" %
                     (conn.sock.getpeername()[0], objId)
                 )
-                log.debug("unknown object requested: %s", objId)
                 raise errors.DaemonError("unknown object")
                 
             if flags & MessageFactory.FLAGS_ONEWAY:
@@ -137,13 +127,11 @@ class VinllaDaemon(Pyro4.Daemon):
         except Exception:
             xt,xv=sys.exc_info()[0:2]
             if xt is not errors.ConnectionClosedError:
-                log.debug("Exception occurred while handling request: %r", xv)
                 if not flags & MessageFactory.FLAGS_ONEWAY:
-                    # only return the error to the client if it wasn't a oneway call
                     tblines=util.formatTraceback(detailed=Pyro4.config.DETAILED_TRACEBACK)
                     self._sendExceptionResponse(conn, seq, xv, tblines)
             if isCallback or isinstance(xv, (errors.CommunicationError, errors.SecurityError)):
-                raise       # re-raise if flagged as callback, communication or security error.
+                raise
 
 class Server(object):
     def __init__(self,host=None,port=None):
@@ -162,19 +150,22 @@ class Server(object):
             )
         else :
             self.logger.critical(
-                "Server can't bind to address %s Vinlla not detect this IP in Server" % self.host
+                "[Server] Server can't bind to address %s, Vinlla not detect this IP belonging this Server" % self.host
             )
             sys.exit()
     
     def hook_object(self,obj,id=None):
+        if id == None :
+            id = obj.__class__.__name__
+            
         self.logger.success(
-            "Exposing object %s in PYRO:%s@%s:%s" %
+            "[Object] Exposing object %s in PYRO:%s@%s:%s" %
             (obj.__class__.__name__, id, self.host, self.port))
         self.uri = self.daemon.register(obj,objectId=id)
     
     def run(self):
         self.logger.success(
-            "VinllaNode Object Server Successfuly run at %s" %
+            "[Server] VinllaNode Object Server successfuly run at %s" %
             (self.daemon.locationStr)
             )
         self.daemon.requestLoop()

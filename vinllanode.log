@@ -1,481 +1,84 @@
-
-2012-10-21 17:13:25,580 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-21 17:13:25,580 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-21 17:13:25,589 Succesed load module aufs
-2012-10-21 17:13:25,609 Succesed load module squashfs
-2012-10-21 17:13:25,631 Succesed load module dummy
-2012-10-21 17:13:25,651 Succesed load module veth
-2012-10-21 17:13:25,674 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-21 17:13:27,917 Executing method <function nguk at 0x1840230> at class Test
-2012-10-21 17:17:11,452 Executing method <function nguk at 0x1840230> at class Test
-2012-10-22 10:59:52,259 Server can't bind to address 192.168.0.1 Vinlla not detect this IP in Server
-2012-10-22 11:00:14,115 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:00:14,116 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:00:14,120 Succesed load module aufs
-2012-10-22 11:00:14,138 Succesed load module squashfs
-2012-10-22 11:00:14,159 Succesed load module dummy
-2012-10-22 11:00:14,177 Succesed load module veth
-2012-10-22 11:00:14,195 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:34:11,791 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:34:11,792 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:34:11,796 Succesed load module aufs
-2012-10-22 11:34:11,816 Succesed load module squashfs
-2012-10-22 11:34:11,837 Succesed load module dummy
-2012-10-22 11:34:11,859 Succesed load module veth
-2012-10-22 11:34:11,878 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:35:35,599 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:35:35,600 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:35:35,604 Succesed load module aufs
-2012-10-22 11:35:35,627 Succesed load module squashfs
-2012-10-22 11:35:35,651 Succesed load module dummy
-2012-10-22 11:35:35,675 Succesed load module veth
-2012-10-22 11:35:35,696 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:37:12,690 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:37:12,691 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:37:12,695 Succesed load module aufs
-2012-10-22 11:37:12,716 Succesed load module squashfs
-2012-10-22 11:37:12,737 Succesed load module dummy
-2012-10-22 11:37:12,759 Succesed load module veth
-2012-10-22 11:37:12,781 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:37:37,610 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:37:37,611 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:37:37,617 Succesed load module aufs
-2012-10-22 11:37:37,634 Succesed load module squashfs
-2012-10-22 11:37:37,654 Succesed load module dummy
-2012-10-22 11:37:37,675 Succesed load module veth
-2012-10-22 11:37:37,695 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:39:25,211 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:39:25,212 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:39:25,217 Succesed load module aufs
-2012-10-22 11:39:25,243 Succesed load module squashfs
-2012-10-22 11:39:25,265 Succesed load module dummy
-2012-10-22 11:39:25,284 Succesed load module veth
-2012-10-22 11:39:25,305 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:39:28,277 Executing method <function nguk at 0x2034398> at class Test
-2012-10-22 11:39:56,833 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:39:56,834 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:39:56,838 Succesed load module aufs
-2012-10-22 11:39:56,872 Succesed load module squashfs
-2012-10-22 11:39:56,905 Succesed load module dummy
-2012-10-22 11:39:56,928 Succesed load module veth
-2012-10-22 11:39:56,948 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:40:00,997 Executing method <function nguk at 0x1974320> at class Test
-2012-10-22 11:40:16,203 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:40:16,203 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:40:16,208 Succesed load module aufs
-2012-10-22 11:40:16,229 Succesed load module squashfs
-2012-10-22 11:40:16,251 Succesed load module dummy
-2012-10-22 11:40:16,272 Succesed load module veth
-2012-10-22 11:40:16,296 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:40:36,178 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:40:36,179 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:40:36,183 Succesed load module aufs
-2012-10-22 11:40:36,204 Succesed load module squashfs
-2012-10-22 11:40:36,226 Succesed load module dummy
-2012-10-22 11:40:36,251 Succesed load module veth
-2012-10-22 11:40:36,279 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:40:39,444 Executing method <function nguk at 0x8f62a8> at class Test
-2012-10-22 11:41:21,853 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:41:21,854 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:41:21,858 Succesed load module aufs
-2012-10-22 11:41:21,878 Succesed load module squashfs
-2012-10-22 11:41:21,907 Succesed load module dummy
-2012-10-22 11:41:21,931 Succesed load module veth
-2012-10-22 11:41:21,955 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:41:24,406 Executing method <function nguk at 0x170e320> at class Test
-2012-10-22 11:42:03,402 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:42:03,402 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:42:03,407 Succesed load module aufs
-2012-10-22 11:42:03,429 Succesed load module squashfs
-2012-10-22 11:42:03,451 Succesed load module dummy
-2012-10-22 11:42:03,470 Succesed load module veth
-2012-10-22 11:42:03,490 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:42:29,593 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:42:29,594 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:42:29,598 Succesed load module aufs
-2012-10-22 11:42:29,620 Succesed load module squashfs
-2012-10-22 11:42:29,643 Succesed load module dummy
-2012-10-22 11:42:29,671 Succesed load module veth
-2012-10-22 11:42:29,694 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:42:53,732 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:42:53,733 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:42:53,737 Succesed load module aufs
-2012-10-22 11:42:53,757 Succesed load module squashfs
-2012-10-22 11:42:53,780 Succesed load module dummy
-2012-10-22 11:42:53,806 Succesed load module veth
-2012-10-22 11:42:53,832 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:43:43,290 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:43:43,291 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:43:43,295 Succesed load module aufs
-2012-10-22 11:43:43,315 Succesed load module squashfs
-2012-10-22 11:43:43,337 Succesed load module dummy
-2012-10-22 11:43:43,359 Succesed load module veth
-2012-10-22 11:43:43,384 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:44:22,720 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:44:22,720 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:44:22,725 Succesed load module aufs
-2012-10-22 11:44:22,744 Succesed load module squashfs
-2012-10-22 11:44:22,766 Succesed load module dummy
-2012-10-22 11:44:22,791 Succesed load module veth
-2012-10-22 11:44:22,815 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:44:40,702 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:44:40,703 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:44:40,707 Succesed load module aufs
-2012-10-22 11:44:40,727 Succesed load module squashfs
-2012-10-22 11:44:40,749 Succesed load module dummy
-2012-10-22 11:44:40,769 Succesed load module veth
-2012-10-22 11:44:40,788 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:45:19,133 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:45:19,134 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:45:19,138 Succesed load module aufs
-2012-10-22 11:45:19,158 Succesed load module squashfs
-2012-10-22 11:45:19,177 Succesed load module dummy
-2012-10-22 11:45:19,196 Succesed load module veth
-2012-10-22 11:45:19,220 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:45:32,645 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:45:32,646 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:45:32,650 Succesed load module aufs
-2012-10-22 11:45:32,672 Succesed load module squashfs
-2012-10-22 11:45:32,693 Succesed load module dummy
-2012-10-22 11:45:32,715 Succesed load module veth
-2012-10-22 11:45:32,736 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:46:59,016 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:46:59,016 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:46:59,020 Succesed load module aufs
-2012-10-22 11:46:59,038 Succesed load module squashfs
-2012-10-22 11:46:59,056 Succesed load module dummy
-2012-10-22 11:46:59,076 Succesed load module veth
-2012-10-22 11:46:59,100 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:51:58,215 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 11:51:58,216 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 11:51:58,220 Succesed load module aufs
-2012-10-22 11:51:58,239 Succesed load module squashfs
-2012-10-22 11:51:58,260 Succesed load module dummy
-2012-10-22 11:51:58,281 Succesed load module veth
-2012-10-22 11:51:58,299 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 11:52:01,013 Client 192.168.0.1 contacting server.
-2012-10-22 11:52:02,482 Client 192.168.0.1 contacting server.
-2012-10-22 11:52:02,766 Client 192.168.0.1 contacting server.
-2012-10-22 11:52:03,041 Client 192.168.0.1 contacting server.
-2012-10-22 11:52:03,265 Client 192.168.0.1 contacting server.
-2012-10-22 12:11:22,736 Client 192.168.0.1 contacting server.
-2012-10-22 12:24:29,153 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:24:29,154 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:24:29,159 Succesed load module aufs
-2012-10-22 12:24:29,179 Succesed load module squashfs
-2012-10-22 12:24:29,203 Succesed load module dummy
-2012-10-22 12:24:29,223 Succesed load module veth
-2012-10-22 12:24:29,256 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:24:31,889 Client 192.168.0.1 contacting server
-2012-10-22 12:26:04,854 Client 192.168.0.1 contacting server
-2012-10-22 12:26:05,361 Client 192.168.0.1 contacting server
-2012-10-22 12:26:05,944 Client 192.168.0.1 contacting server
-2012-10-22 12:26:06,452 Client 192.168.0.1 contacting server
-2012-10-22 12:26:06,810 Client 192.168.0.1 contacting server
-2012-10-22 12:26:07,129 Client 192.168.0.1 contacting server
-2012-10-22 12:26:07,426 Client 192.168.0.1 contacting server
-2012-10-22 12:26:07,730 Client 192.168.0.1 contacting server
-2012-10-22 12:26:07,980 Client 192.168.0.1 contacting server
-2012-10-22 12:26:08,261 Client 192.168.0.1 contacting server
-2012-10-22 12:26:08,562 Client 192.168.0.1 contacting server
-2012-10-22 12:26:08,813 Client 192.168.0.1 contacting server
-2012-10-22 12:26:09,075 Client 192.168.0.1 contacting server
-2012-10-22 12:26:09,320 Client 192.168.0.1 contacting server
-2012-10-22 12:26:09,581 Client 192.168.0.1 contacting server
-2012-10-22 12:26:09,838 Client 192.168.0.1 contacting server
-2012-10-22 12:26:10,093 Client 192.168.0.1 contacting server
-2012-10-22 12:26:10,354 Client 192.168.0.1 contacting server
-2012-10-22 12:26:10,638 Client 192.168.0.1 contacting server
-2012-10-22 12:26:10,887 Client 192.168.0.1 contacting server
-2012-10-22 12:26:11,175 Client 192.168.0.1 contacting server
-2012-10-22 12:26:11,411 Client 192.168.0.1 contacting server
-2012-10-22 12:26:11,651 Client 192.168.0.1 contacting server
-2012-10-22 12:26:11,890 Client 192.168.0.1 contacting server
-2012-10-22 12:26:12,139 Client 192.168.0.1 contacting server
-2012-10-22 12:26:12,396 Client 192.168.0.1 contacting server
-2012-10-22 12:26:12,641 Client 192.168.0.1 contacting server
-2012-10-22 12:26:12,874 Client 192.168.0.1 contacting server
-2012-10-22 12:26:13,133 Client 192.168.0.1 contacting server
-2012-10-22 12:26:13,362 Client 192.168.0.1 contacting server
-2012-10-22 12:28:30,478 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:28:30,478 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:28:30,483 Succesed load module aufs
-2012-10-22 12:28:30,502 Succesed load module squashfs
-2012-10-22 12:28:30,522 Succesed load module dummy
-2012-10-22 12:28:30,542 Succesed load module veth
-2012-10-22 12:28:30,563 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:29:02,699 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:29:02,700 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:29:02,705 Succesed load module aufs
-2012-10-22 12:29:02,723 Succesed load module squashfs
-2012-10-22 12:29:02,742 Succesed load module dummy
-2012-10-22 12:29:02,761 Succesed load module veth
-2012-10-22 12:29:02,781 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:29:05,412 Client 192.168.0.1 contacting object
-2012-10-22 12:29:21,681 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:29:21,682 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:29:21,686 Succesed load module aufs
-2012-10-22 12:29:21,705 Succesed load module squashfs
-2012-10-22 12:29:21,724 Succesed load module dummy
-2012-10-22 12:29:21,742 Succesed load module veth
-2012-10-22 12:29:21,761 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:33:25,355 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:33:25,356 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:33:25,360 Succesed load module aufs
-2012-10-22 12:33:25,384 Succesed load module squashfs
-2012-10-22 12:33:25,410 Succesed load module dummy
-2012-10-22 12:33:25,432 Succesed load module veth
-2012-10-22 12:33:25,455 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:33:27,733 Client 192.168.0.1 contacting object
-2012-10-22 12:34:02,830 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:34:02,830 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:34:02,837 Succesed load module aufs
-2012-10-22 12:34:02,856 Succesed load module squashfs
-2012-10-22 12:34:02,876 Succesed load module dummy
-2012-10-22 12:34:02,896 Succesed load module veth
-2012-10-22 12:34:02,917 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:34:37,233 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:34:37,234 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:34:37,238 Succesed load module aufs
-2012-10-22 12:34:37,259 Succesed load module squashfs
-2012-10-22 12:34:37,280 Succesed load module dummy
-2012-10-22 12:34:37,301 Succesed load module veth
-2012-10-22 12:34:37,322 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:34:39,426 Client 192.168.0.1 contacting object
-2012-10-22 12:35:01,794 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:35:01,795 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:35:01,799 Succesed load module aufs
-2012-10-22 12:35:01,820 Succesed load module squashfs
-2012-10-22 12:35:01,840 Succesed load module dummy
-2012-10-22 12:35:01,864 Succesed load module veth
-2012-10-22 12:35:01,887 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:35:04,814 Client 192.168.0.1 contacting object
-2012-10-22 12:35:26,977 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:35:26,978 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:35:26,982 Succesed load module aufs
-2012-10-22 12:35:27,003 Succesed load module squashfs
-2012-10-22 12:35:27,020 Succesed load module dummy
-2012-10-22 12:35:27,039 Succesed load module veth
-2012-10-22 12:35:27,062 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:35:29,098 Client 192.168.0.1 contacting object
-2012-10-22 12:35:47,854 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:35:47,855 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:35:47,859 Succesed load module aufs
-2012-10-22 12:35:47,879 Succesed load module squashfs
-2012-10-22 12:35:47,902 Succesed load module dummy
-2012-10-22 12:35:47,924 Succesed load module veth
-2012-10-22 12:35:47,945 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:35:49,462 Client 192.168.0.1 contacting object
-2012-10-22 12:36:16,294 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:36:16,295 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:36:16,299 Succesed load module aufs
-2012-10-22 12:36:16,329 Succesed load module squashfs
-2012-10-22 12:36:16,359 Succesed load module dummy
-2012-10-22 12:36:16,390 Succesed load module veth
-2012-10-22 12:36:16,412 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:37:08,089 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:37:08,089 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:37:08,094 Succesed load module aufs
-2012-10-22 12:37:08,115 Succesed load module squashfs
-2012-10-22 12:37:08,135 Succesed load module dummy
-2012-10-22 12:37:08,156 Succesed load module veth
-2012-10-22 12:37:08,179 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:37:09,872 Client 192.168.0.1 contacting object
-2012-10-22 12:37:32,516 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:37:32,517 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:37:32,521 Succesed load module aufs
-2012-10-22 12:37:32,541 Succesed load module squashfs
-2012-10-22 12:37:32,562 Succesed load module dummy
-2012-10-22 12:37:32,581 Succesed load module veth
-2012-10-22 12:37:32,609 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:37:34,351 Client 192.168.0.1 contacting object
-2012-10-22 12:38:06,306 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:38:06,307 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:38:06,311 Succesed load module aufs
-2012-10-22 12:38:06,333 Succesed load module squashfs
-2012-10-22 12:38:06,353 Succesed load module dummy
-2012-10-22 12:38:06,373 Succesed load module veth
-2012-10-22 12:38:06,395 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:38:08,082 Client 192.168.0.1 contacting object
-2012-10-22 12:40:38,792 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:40:38,793 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:40:38,797 Succesed load module aufs
-2012-10-22 12:40:38,817 Succesed load module squashfs
-2012-10-22 12:40:38,839 Succesed load module dummy
-2012-10-22 12:40:38,860 Succesed load module veth
-2012-10-22 12:40:38,883 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:40:42,827 Client 192.168.0.1 contacting object
-2012-10-22 12:41:21,654 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:41:21,654 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:41:21,659 Succesed load module aufs
-2012-10-22 12:41:21,691 Succesed load module squashfs
-2012-10-22 12:41:21,722 Succesed load module dummy
-2012-10-22 12:41:21,751 Succesed load module veth
-2012-10-22 12:41:21,783 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:41:42,060 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:41:42,060 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:41:42,064 Succesed load module aufs
-2012-10-22 12:41:42,088 Succesed load module squashfs
-2012-10-22 12:41:42,109 Succesed load module dummy
-2012-10-22 12:41:42,128 Succesed load module veth
-2012-10-22 12:41:42,147 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:41:44,039 Client 192.168.0.1 contacting object
-2012-10-22 12:42:16,177 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:42:16,177 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:42:16,182 Succesed load module aufs
-2012-10-22 12:42:16,201 Succesed load module squashfs
-2012-10-22 12:42:16,220 Succesed load module dummy
-2012-10-22 12:42:16,240 Succesed load module veth
-2012-10-22 12:42:16,259 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:42:18,163 Client 192.168.0.1 contacting object
-2012-10-22 12:42:36,964 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:42:36,964 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:42:36,969 Succesed load module aufs
-2012-10-22 12:42:36,988 Succesed load module squashfs
-2012-10-22 12:42:37,010 Succesed load module dummy
-2012-10-22 12:42:37,031 Succesed load module veth
-2012-10-22 12:42:37,050 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:42:39,081 Client 192.168.0.1 contacting object
-2012-10-22 12:42:47,456 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:42:47,457 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:42:47,463 Succesed load module aufs
-2012-10-22 12:42:47,487 Succesed load module squashfs
-2012-10-22 12:42:47,507 Succesed load module dummy
-2012-10-22 12:42:47,531 Succesed load module veth
-2012-10-22 12:42:47,554 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:42:49,449 Client 192.168.0.1 contacting object
-2012-10-22 12:43:13,223 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:43:13,224 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:43:13,228 Succesed load module aufs
-2012-10-22 12:43:13,245 Succesed load module squashfs
-2012-10-22 12:43:13,264 Succesed load module dummy
-2012-10-22 12:43:13,284 Succesed load module veth
-2012-10-22 12:43:13,308 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:45:35,821 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:45:35,822 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:45:35,827 Succesed load module aufs
-2012-10-22 12:45:35,845 Succesed load module squashfs
-2012-10-22 12:45:35,865 Succesed load module dummy
-2012-10-22 12:45:35,884 Succesed load module veth
-2012-10-22 12:45:35,905 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:45:38,383 Client 192.168.0.1 contacting object
-2012-10-22 12:45:48,620 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:45:48,621 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:45:48,627 Succesed load module aufs
-2012-10-22 12:45:48,649 Succesed load module squashfs
-2012-10-22 12:45:48,667 Succesed load module dummy
-2012-10-22 12:45:48,686 Succesed load module veth
-2012-10-22 12:45:48,706 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:45:51,637 Client 192.168.0.1 contacting object
-2012-10-22 12:46:31,198 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:46:31,198 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:46:31,203 Succesed load module aufs
-2012-10-22 12:46:31,224 Succesed load module squashfs
-2012-10-22 12:46:31,244 Succesed load module dummy
-2012-10-22 12:46:31,265 Succesed load module veth
-2012-10-22 12:46:31,288 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:47:16,292 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:47:16,292 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:47:16,297 Succesed load module aufs
-2012-10-22 12:47:16,314 Succesed load module squashfs
-2012-10-22 12:47:16,333 Succesed load module dummy
-2012-10-22 12:47:16,352 Succesed load module veth
-2012-10-22 12:47:16,374 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:48:23,217 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:48:23,217 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:48:23,222 Succesed load module aufs
-2012-10-22 12:48:23,244 Succesed load module squashfs
-2012-10-22 12:48:23,264 Succesed load module dummy
-2012-10-22 12:48:23,286 Succesed load module veth
-2012-10-22 12:48:23,308 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:50:19,692 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:50:19,692 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:50:19,697 Succesed load module aufs
-2012-10-22 12:50:19,717 Succesed load module squashfs
-2012-10-22 12:50:19,738 Succesed load module dummy
-2012-10-22 12:50:19,759 Succesed load module veth
-2012-10-22 12:50:19,782 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:51:17,457 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:51:17,458 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:51:17,462 Succesed load module aufs
-2012-10-22 12:51:17,483 Succesed load module squashfs
-2012-10-22 12:51:17,505 Succesed load module dummy
-2012-10-22 12:51:17,528 Succesed load module veth
-2012-10-22 12:51:17,551 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:51:46,219 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:51:46,220 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:51:46,224 Succesed load module aufs
-2012-10-22 12:51:46,244 Succesed load module squashfs
-2012-10-22 12:51:46,266 Succesed load module dummy
-2012-10-22 12:51:46,288 Succesed load module veth
-2012-10-22 12:51:46,311 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:52:46,384 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:52:46,385 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:52:46,390 Succesed load module aufs
-2012-10-22 12:52:46,409 Succesed load module squashfs
-2012-10-22 12:52:46,428 Succesed load module dummy
-2012-10-22 12:52:46,449 Succesed load module veth
-2012-10-22 12:52:46,475 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:55:13,824 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:55:13,825 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:55:13,829 Succesed load module aufs
-2012-10-22 12:55:13,850 Succesed load module squashfs
-2012-10-22 12:55:13,870 Succesed load module dummy
-2012-10-22 12:55:13,891 Succesed load module veth
-2012-10-22 12:55:13,913 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:55:16,109 Client ('192.168.0.1', 60801) contacting object lala
-2012-10-22 12:57:20,856 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:57:20,857 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:57:20,861 Succesed load module aufs
-2012-10-22 12:57:20,882 Succesed load module squashfs
-2012-10-22 12:57:20,903 Succesed load module dummy
-2012-10-22 12:57:20,926 Succesed load module veth
-2012-10-22 12:57:20,960 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 12:57:23,540 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:23,777 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:24,026 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:24,264 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:24,505 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:24,705 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:24,951 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:25,164 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:25,354 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:25,601 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:25,819 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:26,048 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:26,245 Client 192.168.0.1 contacting object lala
-2012-10-22 12:57:26,426 Client 192.168.0.1 contacting object lala
-2012-10-22 12:59:13,101 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 12:59:13,102 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 12:59:13,106 Succesed load module aufs
-2012-10-22 12:59:13,126 Succesed load module squashfs
-2012-10-22 12:59:13,147 Succesed load module dummy
-2012-10-22 12:59:13,170 Succesed load module veth
-2012-10-22 12:59:13,192 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 13:01:11,477 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 13:01:11,478 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 13:01:11,482 Succesed load module aufs
-2012-10-22 13:01:11,504 Succesed load module squashfs
-2012-10-22 13:01:11,524 Succesed load module dummy
-2012-10-22 13:01:11,546 Succesed load module veth
-2012-10-22 13:01:11,569 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 13:01:32,190 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 13:01:32,191 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 13:01:32,195 Succesed load module aufs
-2012-10-22 13:01:32,223 Succesed load module squashfs
-2012-10-22 13:01:32,247 Succesed load module dummy
-2012-10-22 13:01:32,265 Succesed load module veth
-2012-10-22 13:01:32,286 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 13:01:34,484 Client 192.168.0.1 contacting unknown nguk
-2012-10-22 13:01:35,493 Client 192.168.0.1 contacting unknown nguk
-2012-10-22 13:07:00,737 Exposing object Test in PYRO:test@192.168.0.1:9090
-2012-10-22 13:07:00,737 Exposing object Test in PYRO:lala@192.168.0.1:9090
-2012-10-22 13:07:00,742 Succesed load module aufs
-2012-10-22 13:07:00,761 Succesed load module squashfs
-2012-10-22 13:07:00,780 Succesed load module dummy
-2012-10-22 13:07:00,800 Succesed load module veth
-2012-10-22 13:07:00,820 VinllaNode Object Server Successfuly run at 192.168.0.1:9090
-2012-10-22 13:07:03,037 Client 192.168.0.1 contacting unknown object nguk
-2012-10-22 13:07:23,042 Client 192.168.0.1 contacting object test
-2012-10-22 13:08:59,389 Client 192.168.0.1 contacting object test
-2012-10-22 13:09:20,824 Client 192.168.0.1 contacting unknown object tasdfadsfads
+2012-10-22 15:15:36,933 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 15:15:36,962 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 15:15:36,999 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 15:15:37,026 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 15:15:37,049 [Server] VinllaNode Object Server Successfuly run at 192.168.0.1:9090
+2012-10-22 15:41:54,794 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 15:41:54,818 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 15:41:54,842 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 15:41:54,867 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 15:41:54,889 [Server] VinllaNode Object Server Successfuly run at 192.168.0.1:9090
+2012-10-22 15:42:45,367 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 15:42:45,391 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 15:42:45,421 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 15:42:45,452 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 15:42:45,485 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 15:48:40,573 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 15:48:40,598 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 15:48:40,621 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 15:48:40,645 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 15:48:40,669 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 15:50:06,196 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 15:50:06,217 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 15:50:06,238 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 15:50:06,264 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 15:50:06,287 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 16:05:17,378 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-10-22 16:05:17,383 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 16:05:17,408 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 16:05:17,431 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 16:05:17,451 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 16:05:17,473 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 16:05:37,314 [Object] Client 192.168.0.1 contacting unknown object test
+2012-10-22 16:05:51,358 [Object] Client 192.168.0.1 contacting unknown object vrm
+2012-10-22 16:06:04,089 [Object] Client 192.168.0.1 contacting object Vrm
+2012-10-22 17:45:00,161 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-22 17:45:00,169 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 17:45:00,209 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 17:45:00,230 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 17:45:00,249 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 17:45:00,267 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 17:45:23,715 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:45:40,767 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-22 17:45:40,772 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 17:45:40,790 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 17:45:40,807 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 17:45:40,824 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 17:45:40,841 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 17:45:43,023 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:46:08,519 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-22 17:46:08,524 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 17:46:08,544 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 17:46:08,564 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 17:46:08,588 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 17:46:08,608 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 17:46:10,623 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:47:00,972 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-22 17:47:00,978 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 17:47:00,996 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 17:47:01,015 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 17:47:01,035 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 17:47:01,056 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 17:47:03,150 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:48:20,977 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-22 17:48:20,982 [OperatingSystem] Succesed load kernel module aufs
+2012-10-22 17:48:21,000 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-22 17:48:21,018 [OperatingSystem] Succesed load kernel module dummy
+2012-10-22 17:48:21,037 [OperatingSystem] Succesed load kernel module veth
+2012-10-22 17:48:21,057 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-22 17:48:25,076 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:08,222 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:08,840 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:09,137 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:09,390 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:09,619 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:09,809 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:10,081 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:10,319 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:10,533 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:10,764 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:11,232 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:11,662 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:12,002 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:12,314 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-22 17:49:12,609 [Object] Client 192.168.0.1 contacting object Tank

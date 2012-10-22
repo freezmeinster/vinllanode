@@ -1,14 +1,15 @@
+#!/usr/bin/env python
+
 from settings import Settings
 from utils.server import Server,prepare_kmod
 from utils.log import Logger
+from utils.storage import Tank
+from vrm import Vrm
 
-class Test(object):
-    
-    def nguk(self,val1,val2):
-        return "hasil %s + %s adalah %s" % (val1, val2 , val1+val2)
+tank = Tank()
 
 server = Server()
-server.hook_object(Test(),'test')
-server.hook_object(Test(),'lala')
+server.hook_object(tank)
 prepare_kmod()
 server.run()
+
