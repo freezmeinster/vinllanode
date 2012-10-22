@@ -1,10 +1,9 @@
 from settings import Settings
-from utils.server import Server,prepare_kmod,track_logging
+from utils.server import Server,prepare_kmod
 from utils.log import Logger
 
 class Test(object):
     
-    @track_logging
     def nguk(self,val1,val2):
         return "hasil %s + %s adalah %s" % (val1, val2 , val1+val2)
 
