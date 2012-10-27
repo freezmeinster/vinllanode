@@ -227,3 +227,26 @@
 2012-10-25 22:51:39,832 [OperatingSystem] Succesed load kernel module veth
 2012-10-25 22:51:39,861 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
 2012-10-25 22:52:49,713 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-27 16:18:50,224 [Server] Server can't bind to address 192.168.0.1, Vinlla not detect this IP belonging this Server
+2012-10-27 16:19:01,438 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-27 16:19:01,443 [OperatingSystem] Succesed load kernel module aufs
+2012-10-27 16:19:01,685 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-27 16:19:01,706 [OperatingSystem] Succesed load kernel module dummy
+2012-10-27 16:19:01,791 [OperatingSystem] Succesed load kernel module veth
+2012-10-27 16:19:01,843 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-27 22:19:38,261 [Server] Server can't bind to address 192.168.0.1, Vinlla not detect this IP belonging this Server
+2012-10-27 22:19:54,570 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-27 22:19:54,575 [OperatingSystem] Succesed load kernel module aufs
+2012-10-27 22:19:54,592 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-27 22:19:54,610 [OperatingSystem] Succesed load kernel module dummy
+2012-10-27 22:19:54,631 [OperatingSystem] Succesed load kernel module veth
+2012-10-27 22:19:54,651 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-27 22:20:27,030 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-27 22:22:19,320 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-27 22:22:28,175 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-27 22:22:28,180 [OperatingSystem] Succesed load kernel module aufs
+2012-10-27 22:22:28,200 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-27 22:22:28,221 [OperatingSystem] Succesed load kernel module dummy
+2012-10-27 22:22:28,241 [OperatingSystem] Succesed load kernel module veth
+2012-10-27 22:22:28,261 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-27 22:22:29,744 [Object] Client 192.168.0.1 contacting object Storage

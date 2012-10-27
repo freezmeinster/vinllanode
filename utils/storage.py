@@ -32,8 +32,10 @@ class Storage(object):
     def make_volume_group(self,pv):
         pass
     
-    def make_logical_volume(self,vg,name,size):
-        pass
+    def make_logical_volume(self,vg,name,size,owner):
+        comm = "lvcreate --name '%s' --size '%s' --addtag '%s' '%s'" % (
+                name,size,owner,vg)
+        return comm
     
     def __check_disk_on_server(self, disk):
         if disk in self.__all_disk():
