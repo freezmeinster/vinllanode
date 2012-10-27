@@ -1,6 +1,6 @@
 import Pyro4
 
 Pyro4.config.HMAC_KEY = "ilkom2012"
-uri = "PYRO:Tank@192.168.0.1:9090"
+uri = "PYRO:Storage@192.168.0.1:9090"
 obj = Pyro4.Proxy(uri)
-print obj.all_tank()
+print obj.get_volume_group_list()

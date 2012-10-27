@@ -3,10 +3,10 @@
 from settings import Settings
 from utils.server import Server,prepare_kmod
 from utils.log import Logger
-from utils.storage import Tank
+from utils.storage import Storage
 from vrm import Vrm
 
-tank = Tank()
+tank = Storage()
 
 server = Server()
 server.hook_object(tank)

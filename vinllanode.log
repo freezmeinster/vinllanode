@@ -82,3 +82,148 @@
 2012-10-22 17:49:12,002 [Object] Client 192.168.0.1 contacting object Tank
 2012-10-22 17:49:12,314 [Object] Client 192.168.0.1 contacting object Tank
 2012-10-22 17:49:12,609 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-25 17:31:28,851 [Server] Server can't bind to address 192.168.0.1, Vinlla not detect this IP belonging this Server
+2012-10-25 17:31:37,595 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-25 17:31:37,600 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 17:31:37,619 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 17:31:37,639 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 17:31:37,687 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 17:31:37,714 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 17:32:11,307 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-25 17:32:21,570 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-25 17:32:57,590 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-25 17:33:04,274 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-25 17:33:04,279 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 17:33:04,298 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 17:33:04,317 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 17:33:04,336 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 17:33:04,356 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 17:33:06,358 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-25 17:33:19,867 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-25 17:34:05,156 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-25 17:34:05,164 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 17:34:05,184 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 17:34:05,203 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 17:34:05,221 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 17:34:05,240 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 17:49:55,772 [Server] Server can't bind to address 192.168.0.1, Vinlla not detect this IP belonging this Server
+2012-10-25 17:50:03,617 [Object] Exposing object Tank in PYRO:Tank@192.168.0.1:9090
+2012-10-25 17:50:03,622 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 17:50:03,641 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 17:50:03,659 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 17:50:03,696 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 17:50:03,723 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 17:50:12,625 [Object] Client 192.168.0.1 contacting object Tank
+2012-10-25 17:53:26,136 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 17:53:26,141 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 17:53:26,158 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 17:53:26,174 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 17:53:26,191 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 17:53:26,208 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 17:53:29,316 [Object] Client 192.168.0.1 contacting unknown object Tank
+2012-10-25 17:53:41,230 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 17:53:56,749 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 17:55:49,669 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 17:55:49,674 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 17:55:49,694 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 17:55:49,713 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 17:55:49,732 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 17:55:49,751 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 17:55:51,845 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 18:50:39,201 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 18:50:39,206 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 18:50:39,227 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 18:50:39,247 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 18:50:39,267 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 18:50:39,288 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 18:50:42,445 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:16:36,990 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:16:36,995 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:16:37,011 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:16:37,029 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:16:37,049 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:16:37,067 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:16:39,393 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:16:54,181 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:17:51,247 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:17:51,252 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:17:51,272 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:17:51,290 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:17:51,308 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:17:51,327 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:17:53,093 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:18:11,749 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:18:11,755 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:18:11,774 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:18:11,794 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:18:11,814 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:18:11,838 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:18:14,111 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:19:32,283 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:19:32,288 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:19:32,306 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:19:32,323 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:19:32,341 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:19:32,362 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:19:34,424 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:20:43,494 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:20:43,499 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:20:43,518 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:20:43,539 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:20:43,558 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:20:43,581 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:20:45,961 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:20:59,753 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:29:25,113 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:29:25,119 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:29:25,138 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:29:25,159 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:29:25,179 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:29:25,199 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:29:36,074 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:29:36,079 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:29:36,098 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:29:36,120 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:29:36,141 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:29:36,166 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:29:42,375 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:29:45,197 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:29:45,956 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:29:46,660 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:29:47,319 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:29:47,992 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:29:49,077 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 19:30:31,929 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 19:30:31,935 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 19:30:31,955 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 19:30:31,975 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 19:30:31,995 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 19:30:32,016 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 19:30:38,455 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 20:12:25,865 [Server] Server can't bind to address 192.168.0.1, Vinlla not detect this IP belonging this Server
+2012-10-25 20:12:40,865 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 20:12:40,870 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 20:12:40,891 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 20:12:40,911 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 20:12:40,931 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 20:12:40,950 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 20:13:01,095 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 20:14:19,344 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 20:14:19,349 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 20:14:19,366 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 20:14:19,385 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 20:14:19,402 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 20:14:19,422 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 20:14:44,873 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 20:14:46,701 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 20:14:47,866 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 20:14:48,829 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 20:14:49,819 [Object] Client 192.168.0.1 contacting object Storage
+2012-10-25 22:51:26,630 [Server] Server can't bind to address 192.168.0.1, Vinlla not detect this IP belonging this Server
+2012-10-25 22:51:39,740 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
+2012-10-25 22:51:39,745 [OperatingSystem] Succesed load kernel module aufs
+2012-10-25 22:51:39,763 [OperatingSystem] Succesed load kernel module squashfs
+2012-10-25 22:51:39,782 [OperatingSystem] Succesed load kernel module dummy
+2012-10-25 22:51:39,832 [OperatingSystem] Succesed load kernel module veth
+2012-10-25 22:51:39,861 [Server] VinllaNode Object Server successfuly run at 192.168.0.1:9090
+2012-10-25 22:52:49,713 [Object] Client 192.168.0.1 contacting object Storage
